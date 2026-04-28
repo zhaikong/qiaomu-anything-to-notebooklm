@@ -28,7 +28,6 @@ wheels/
 wexin-read-mcp/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -39,8 +38,6 @@ wexin-read-mcp/
 *.log
 
 # Environment
-.env
-.env.local
 
 # Temporary files
 tmp/
@@ -51,3 +48,5 @@ temp/
 .DS_Store
 .AppleDouble
 .LSOverride
+config.bat
+node_modules
